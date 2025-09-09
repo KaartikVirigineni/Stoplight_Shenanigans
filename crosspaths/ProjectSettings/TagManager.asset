@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - traficlight
+  - car
+  - SpawnerTrigger
+  - pedestrian
+  - GameOverScreen
+  - Right-Warning
+  - 'Down -Warning '
+  - Up-Warning
+  - Left-Warning
+  - Warnings
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - interactable
+  - Water
+  - UI
+  - car
+  - Straight
+  - GoingLeft
+  - GoingUp
+  - GoingRight
+  - GoingDown
+  - Padestrian
+  - cardestroyer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
