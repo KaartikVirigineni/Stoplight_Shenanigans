@@ -1,2 +1,3 @@
 # Stoplight_Shenanigans
-MellonJam2024
+A game I made for the 5th annual MellonJam in 2024
+https://walnutelf793276.itch.io/stoplight-shenanigains
