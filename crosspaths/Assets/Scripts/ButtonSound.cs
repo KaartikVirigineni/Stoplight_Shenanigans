@@ -21,7 +21,7 @@ public class ButtonSound : MonoBehaviour
         }
         else
         {
-            Debug.LogWarning("Button component not found on this GameObject.");
+            Debug.LogWarning("no button");
         }
     }
 
@@ -32,7 +32,7 @@ public class ButtonSound : MonoBehaviour
         }
         else
         {
-            Debug.LogWarning("AudioSource or soundEffect not set.");
+            Debug.LogWarning("audiosource not set.");
         }
     }
 }
