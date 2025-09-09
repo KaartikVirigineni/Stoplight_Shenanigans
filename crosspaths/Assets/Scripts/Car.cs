@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Car : MonoBehaviour
 {
-    public string targetTag = "YourTargetTag";
+    public string targetTag = "Target";
     public Vector3 raycastDirection = Vector3.forward;
     public Vector3 moveDirection = Vector3.forward;
     public float speed = 5f;
